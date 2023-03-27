@@ -3,4 +3,4 @@ http:
   listen-addr: ":80"
 
 maps:
-  op.gg: https://op.gg
+  t.bd: https://www.baidu.com
