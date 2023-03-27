@@ -1,0 +1,6 @@
+http:
+  enabled: true
+  listen-addr: ":80"
+
+maps:
+  op.gg: https://op.gg
